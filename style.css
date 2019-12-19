@@ -1,9 +1,14 @@
 #main  {
-  font-family: Georgia, serif;
+  font-family: Georgia, serif, sans-serif;
   color: #8F8481;
   font-size: 1rem;
 }
 
 .nav  {
+  font-family: Georgia, serif, sans-serif;
+  color: #9F9491;
+  font-size: 0.5rem;
+  display: inline;
+
 
 }
